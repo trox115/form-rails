@@ -1,24 +1,18 @@
-# README
+#Ruby on Rails- Project Forms
+Bare Metal Forms and Helpers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum.
 
-Things you may want to cover:
+A basic form for inserting new records and editing records in a database has been created in nake html, as well as using rails form helpers.
+Requirements
 
-* Ruby version
+    Ruby 2.5.3
 
-* System dependencies
+Installation
 
-* Configuration
+    Download repository to your local machine, then run bundle install.
 
-* Database creation
+Useful Links
 
-* Database initialization
+    The Odin Project Assignment Page
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
