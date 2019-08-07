@@ -1,18 +1,25 @@
-#Ruby on Rails- Project Forms
-Bare Metal Forms and Helpers
+# Form Rails
 
-This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum.
+This is the [Form Rails project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms) created using ruby on rails for [The Oding Project](https://www.theodinproject.com). this code is reviewed for a [Microverse](https://www.microverse.org/) Technical Support Engineer TSE that supervises the completeness of the final product
 
-A basic form for inserting new records and editing records in a database has been created in nake html, as well as using rails form helpers.
-Requirements
+In this project it was used:
 
-    Ruby 2.5.3
+* Ruby
+* Ruby on Rails Framework
+* HTML
+* CSS
 
-Installation
+### Deploy
 
-    Download repository to your local machine, then run bundle install.
+* Heroku
 
-Useful Links
+# Author
 
-    The Odin Project Assignment Page
+This project was created by:
 
+* António Fernandes [Github account](https://github.com/trox115) [https://github.com/trox115][https://github.com/trox115] 
+
+
+# The Web App
+
+The live version of this project is on [Live version]()
